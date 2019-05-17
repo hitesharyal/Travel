@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "956717358598",
+    "firebase_url": "https://travelapp-8a9f1.firebaseio.com",
+    "project_id": "travelapp-8a9f1",
+    "storage_bucket": "travelapp-8a9f1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:956717358598:android:4b81c44562560062",
+        "android_client_info": {
+          "package_name": "com.example.naveenaryal.travelapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "956717358598-ed7rjbokjj8kd4gs4eb7pmu183fptlfc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6eOvAxO9_1ESzysFcZR14qomhcwFvRWU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
